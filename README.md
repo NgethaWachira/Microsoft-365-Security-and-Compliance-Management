@@ -4,11 +4,11 @@ To provide an overview and practical guidance on using Microsoft Defender and re
 ## Skills Learned
 - Defender for Office 365: I used Defender for Office 365 to investigate, respond to, and remediate threats. I access it under Email & Collaboration and use the Explorer to review activities like email received, malware, phishing, and campaigns.
 
-- Authentication Header and DKIM which helps ensure email authenticity by checking DNS to confirm legitimacy.
+- I used Authentication Header and DKIM which helps ensure email authenticity by checking DNS to confirm legitimacy.
 
 - I implemented Data Loss Prevention (DLP) to respond to and alert on data security issues. I access DLP policies through Microsoft 365 Admin Center, specifically under Compliance > Microsoft Purview > Data Loss Prevention Blade > Policies.
 
-- I create DLP policies to protect sensitive information, ensuring it isn't shared incorrectly. There's also possibility to customize policies or use templates, linking them to sensitive info types and classifiers in Communication Compliance.
+- I created DLP policies to protect sensitive information, ensuring it isn't shared incorrectly. There's also possibility to customize policies or use templates, linking them to sensitive info types and classifiers in Communication Compliance.
 
 - I learned that DLP policies are prioritized by order number, with lower numbers having higher priority. Alerts for triggered policies are found in the Alerts Blade under DLP and can be emailed to an admin. I observed that Microsoft integrates DLP alerts with Defender.
 
