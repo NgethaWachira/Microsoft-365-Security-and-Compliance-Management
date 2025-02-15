@@ -29,7 +29,23 @@ To provide an overview and practical guidance on using Microsoft Defender and re
 <img src="https://img.shields.io/badge/-Microsoft%20Defender-660029?style=for-the-badge&logo=Microsoft%20Defender&logoColor=white" alt="Microsoft Defender">
 </div>
 
+
+<p align="center">
+  <img src="https://github.com/NgethaWachira/Azure-Security-and-Simulation/blob/670ae5d5cd00a045199063fcee2303e6b30fae0e/Images/Launching%20an%20attack%20simulation.PNG" width="300" />
+  <img src="https://github.com/NgethaWachira/Azure-Security-and-Simulation/blob/8d2d52d3bc3c8de99ab8e47cacda47b5ec8010f3/Images/Attack%20email%20payload.PNG" width="300" />
+</p>
+
 ## Steps
+- Fisrt, we Log in to Microsoft 365 Defender, access the Email & Collaboration section, from the left navigation pane, go to Email & Collaboration under the Threat Management section. This is where all security tools related to email, including Defender for Office 365, are located. We select explorer, now we see a set of predefined categories that allow us to view different types of email threats; All Email Received, Malware, Phishing, Campaigns, Content Malware, URL clicks. In each of these categories, we can filter and analyze emails that were detected by Defender. We can see details like the message subject, sender, detection time, and more.
+
+<p align="center">
+  <img src="https://github.com/NgethaWachira/Microsoft-365-Security-and-Compliance-Management/blob/4d7d44285dd6646e00018b28c85c732b31a5f514/Images/Explorer%20exploration.PNG" width="700" />
+</p>
+
+- We also ensure that DKIM is configured in our domain’s DNS settings for email authentication - DKIM is an email authentication method that helps validate the legitimacy of incoming emails. We go to the Admin Center, In the left pane, under Setup, select Domains. Choose the domain you want to check, Look for the DKIM settings for that domain. Ensure that DKIM is enabled. Once enabled, DKIM checks will be reflected in Defender for Office 365’s Explorer view, and we’ll see if any incoming email fails the DKIM check.
+
+
+
 
 
 
