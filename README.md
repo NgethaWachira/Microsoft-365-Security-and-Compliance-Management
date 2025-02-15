@@ -16,5 +16,20 @@ To provide an overview and practical guidance on using Microsoft Defender and re
 
 - I used Microsoft Defender for Cloud Apps to monitor cloud services and endpoints, understanding which applications users are utilizing, such as Dropbox, OneDrive, and Salesforce, through the Cloud App Catalog. In Cloud Apps, I also configured policies, using templates to create and manage different policy categories. After creating policies, I review the Activity Log to investigate if any activities have triggered the policies.
 
+## Tools Used
+<div>
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Office%20365-3d5c5c?style=for-the-badge&logo=Microsoft%20Defender&logoColor=white" alt="Microsoft Defender for Office 365">
+<img src="https://img.shields.io/badge/-DKIM-aaaa55?style=for-the-badge&logo=Gmail&logoColor=white" alt="DKIM">
+<img src="https://img.shields.io/badge/-Microsoft%20365%20Admin%20Center-b3ff1a?style=for-the-badge&logo=Microsoft%20365&logoColor=white" alt="Microsoft 365 Admin Center">
+<img src="https://img.shields.io/badge/-Microsoft%20Purview-ff9900?style=for-the-badge&logo=Microsoft%20Purview&logoColor=white" alt="Microsoft Purview">
+<img src="https://img.shields.io/badge/-Data%20Loss%20Prevention%20(DLP)-cc6600?style=for-the-badge&logo=Microsoft%20Security&logoColor=white" alt="Data Loss Prevention (DLP)">
+<img src="https://img.shields.io/badge/-Communication%20Compliance-993333?style=for-the-badge&logo=Microsoft%20Security&logoColor=white" alt="Communication Compliance">
+<img src="https://img.shields.io/badge/-Insider%20Risk%20Management-ff99bb?style=for-the-badge&logo=Microsoft%20Security&logoColor=white" alt="Insider Risk Management">
+<img src="https://img.shields.io/badge/-Cloud%20App%20Catalog-df9fbf?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Cloud App Catalog">
+<img src="https://img.shields.io/badge/-Microsoft%20Defender-660029?style=for-the-badge&logo=Microsoft%20Defender&logoColor=white" alt="Microsoft Defender">
+</div>
+
+## Steps
+
 
 
